@@ -1,0 +1,11 @@
+h1:7qYaPSBJWFf6ErFvyMOoavvPi5ItOdT1aUXBrUAY50U=
+20240617023242_migrate_name.down.sql h1:KTQ5j0qa6173o48O+B3bkQhIJ7mSaIIEwc3XCLIj2kY=
+20240617023242_migrate_name.up.sql h1:unwjKC+JTpQQbpM71bkzoHXAxZgb08hT7FllgBQ9HwI=
+20240617121427_create_user.down.sql h1:JOaqZAPagGImXOl0UUCHXimuc4o4Cye50qViT8oY/ss=
+20240617121427_create_user.up.sql h1:FycznVkUvbpwoJ3mh4FrEW00kTpEOdxLLeKnAly62jk=
+20240617122928_create_user.down.sql h1:GkvBWhtpdXfCNdax/uKGWBr2cgRwEERB9T+XAoyRL/o=
+20240617122928_create_user.up.sql h1:ItQMxF1EQqt0qXUKPiRqa3/GtOiFokAARmVe3vcOCrQ=
+20241003105037_add_role.down.sql h1:bVyfsf3RVTC66gAEExPFMXkris1E4XIGda/QYT6xHlM=
+20241003105037_add_role.up.sql h1:5GL1/nSnsC/+hRmNBwezzNs2L0ZliBA5xFTdZJJtWao=
+20250228120337_add_password.down.sql h1:ULYyiOeB+ByZOP8EsmPzej7yvFi/7leMTMgpiNx9RFE=
+20250228120337_add_password.up.sql h1:kqb6B4tPTJtebPxEPsJZwP9KyuDqhlMexJXo69xUzCw=

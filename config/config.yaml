@@ -1,0 +1,20 @@
+http:
+  port: '8080'
+
+logger:
+  log_level: "info"
+  log_format: 'console'
+
+postgres:
+  log_level: 'info'
+  pool_max: 2
+  url: 'postgresql://postgres:postgres@localhost:5432/mydb?sslmode=disable'
+
+auth:
+  secret_key: 'someSecretKey'
+  token_expiration_time: 2 # in hours
+  domain: 'localhost'
+  cookie_name: 'auth_token'
+  exclude_paths:
+    - '/v1/auth/login'
+    - '/health'
